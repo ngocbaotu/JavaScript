@@ -32,12 +32,16 @@ console.log(num1 != num2); */
 
 //3_ternary_operators.js
 
-let test1 = 80;
-let test2 = 79;
+// let test1 = 80;
+// let test2 = 79;
 
-const hassPassedTest = (test1 >= 70 && test2 >= 70) ? true : false;
-console.log(`Has Passed Test? ${hassPassedTest}`);
+// const hassPassedTest = (test1 >= 70 && test2 >= 70) ? true : false;
+// console.log(`Has Passed Test? ${hassPassedTest}`);
 
+
+// ----- Logical operator -----
+console.log(true || true); //true
+console.log(false && true); //false
 
 
 
